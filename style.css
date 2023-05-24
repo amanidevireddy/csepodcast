@@ -1,0 +1,206 @@
+.nav{
+  background-color: #F1C40F;
+  padding: 10px;
+  padding-left: 40px;
+  padding-right: 40px; 
+}
+.nav_top{
+  top:0;
+  position: absolute;
+  transition: top 0.3s;
+  left: 0;
+  right: 0;
+}
+.logo{
+  float: left;
+  width: 60%;
+}
+.logo img{
+  padding:10px;
+}
+.nav_side{
+  float: right;
+  width: 40%;
+}
+.nav_side a{
+  text-decoration: none;
+  margin-right: 20px;
+  margin-bottom: 0px;
+  color:black;
+  font-weight: bold;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 15px;
+}
+.nav_side a:hover{
+  color:#1F618D;
+  text-decoration: underline;
+  transition: all 1s ease;
+}
+
+
+.main{
+  background-image: url("images/bgimg.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  background-attachment:fixed;
+  width:100%;
+
+}
+.main .main_content{
+  padding-top: 200px;
+  padding-bottom: 10px;
+  margin-left: 10%;
+  margin-right: 10%;
+}
+
+.main .main_content h1{
+  color: #909497;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-align: left;
+}
+.main .main_content h2{
+  color:#909497;
+  
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.final{
+  padding: 5px 5px 5px 5px ;
+}
+.final .finalone h1{
+  color:#F1C40F ;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: bold; 
+}
+.final .finalone p{
+  color: #1F618D ;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: bold;
+  
+}
+.final .finalone a{
+  text-decoration: none;
+}
+.final .finalone a h2{
+  color:blue;
+  text-decoration: none;
+}
+.final .finalone a:hover h2{
+  color:orangered;
+}
+.final .finaltwo h1{
+  color: #F1C40F;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: bold; 
+
+}
+.final .finaltwo p{
+  color:#1F618D ;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: bold; 
+
+}
+.final .finaltwo a{
+  text-decoration: none;
+}
+.final .finaltwo a h2{
+  color:blue;
+  text-decoration: none;
+}
+.final .finaltwo a:hover h2{
+  color:orangered;
+  
+}
+.final .finalthree h1{
+  color:#F1C40F;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: bold; 
+
+}
+.final .finalthree p{
+  color:#1F618D ;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: bold; 
+
+}
+.final .finalthree a{
+  text-decoration: none;
+}
+.final .finalthree a h2{
+  color:blue;
+  text-decoration: none;
+}
+.final .finalthree a:hover h2{
+  color:orangered;
+  
+}
+.final .finalfour h1{
+  color:#F1C40F;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: bold; 
+}
+.final .finalfour p{
+  color: #1F618D;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: bold; 
+
+}
+.final .finalfour a{
+  text-decoration: none;
+}
+.final .finalfour a h2{
+  color:blue;
+  text-decoration: none;
+}
+.final .finalfour a:hover h2{
+  color:orangered;
+
+}
+.final .finalfive h1{
+  color:#F1C40F;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: bold; 
+}
+.final .finalfive p{
+  color:#1F618D;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: bold; 
+
+}
+.final .finalfive a{
+  text-decoration: none;
+}
+
+.final .finalfive a h2{
+  color:blue;
+  text-decoration: none;
+}
+.final .finalfive a:hover h2{
+  color:orangered;
+  
+}
+.footer{
+  background-color: #808B96;
+  padding:50px;
+}
+.footer .part1 a{
+  
+  display: inline;
+  color:black;
+  text-align: center;
+  margin-left: 15px;
+  margin-right: 10px;
+  
+}
+body{
+  margin: 0 0 0 0;
+}
+
+
+
+
+
+
+    
+
+    
